@@ -17,4 +17,4 @@ Notebook Description 📄
 
 ## Demo on Live Video:
 
-![Alt text](https://github.com/shiv0112/hand_digit_YOLOv5/blob/main/screenshots/Demo.gif)
+![Alt text](https://github.com/shiv0112/hand_digit_YOLOv5/blob/main/screenshots/Demo.gif?raw=true)
