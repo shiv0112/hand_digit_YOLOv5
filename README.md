@@ -75,7 +75,7 @@ python train.py --img 416 --batch 16 --epochs 580 --data './Data/data.yaml' --cf
  </table>
 
 # Working Demo
-<img   height="450" src="screenshots/Demo.gif" >
+<img   height="450" src="screenshots/demo.gif" >
 
 ```bash
 Author : Shivansh Srivastava
