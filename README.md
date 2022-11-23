@@ -31,7 +31,7 @@ python detect.py --weights ./yolov5/runs/train/yolov5m_results/weights/best.pt -
 python train.py --img 416 --batch 16 --epochs 580 --data './Data/data.yaml' --cfg ./yolov5/models/custom_yolov5m.yaml --weights 'yolov5m.pt'  --name yolov5m_results  --cache
 ```
 
-# Evaluation Metrices:
+### Evaluation Metrices:
  <table>
   <tr>
     <td>Result Graph After Training:</td>
@@ -63,7 +63,7 @@ python train.py --img 416 --batch 16 --epochs 580 --data './Data/data.yaml' --cf
   </tr>
  </table>
 
- # Augmented Batch Representation:
+### Augmented Batch Representation:
 
 <table>
   <tr>
@@ -74,6 +74,7 @@ python train.py --img 416 --batch 16 --epochs 580 --data './Data/data.yaml' --cf
   </tr>
  </table>
 
+# Working Demo
 <img   height="450" src="screenshots/Demo.gif" >
 
 ```bash
